@@ -10,3 +10,4 @@ The homework assignments were implemented in C and CUDA.
 ### Assignments Content
 - **Parallelized Block Matrix Multiplication**
 - **Parallelized 2D Convolution**
+- **Parallelized Scan Algorithm**
